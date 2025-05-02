@@ -3,6 +3,9 @@ This is a project on [The Odin Project](https://www.theodinproject.com/lessons/n
 
 The task is to create a Sign Up Form with simple Client Side Validation. The design is based on the sample image in assets/images/sign-up-form-sample.png.
 
+![My Project](/assets/images/web-img.png)
+![The sample project](/assets/images/sign-up-form-sample.png)
+
 # Installation
 Clone the repo with (Github CLI)
 ```
